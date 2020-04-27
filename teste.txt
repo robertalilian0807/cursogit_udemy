@@ -5,3 +5,5 @@ comandos git
 * git add <arquivo>
 
 * commit - faz um snapshot dos arquivos que serão colocados na versão
+
+* git log
