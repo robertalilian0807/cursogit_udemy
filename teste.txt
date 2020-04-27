@@ -7,3 +7,5 @@ comandos git
 * commit - faz um snapshot dos arquivos que serão colocados na versão
 
 * git log
+
+* git shortlog
