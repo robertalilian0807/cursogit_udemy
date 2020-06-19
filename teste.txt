@@ -9,3 +9,5 @@ comandos git
 * git log
 
 * git shortlog
+
+* atualizando no repositório remoto
